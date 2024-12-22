@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/air/Gig/media/videos/text_to_video/480p15/partial_movie_files/TextToVideo/1185818338_1431527602_223132457.mp4'
+file 'file:/Users/air/Gig/media/videos/text_to_video/480p15/partial_movie_files/TextToVideo/624642324_255102487_2224059378.mp4'
+file 'file:/Users/air/Gig/media/videos/text_to_video/480p15/partial_movie_files/TextToVideo/624642324_2175547347_1640023126.mp4'
+file 'file:/Users/air/Gig/media/videos/text_to_video/480p15/partial_movie_files/TextToVideo/624642324_255102487_2125661323.mp4'
+file 'file:/Users/air/Gig/media/videos/text_to_video/480p15/partial_movie_files/TextToVideo/624642324_1841187163_2471640405.mp4'
